@@ -1,0 +1,9 @@
+names:
+- Pothole
+- Crack
+- Manhole
+- Garbage
+nc: 4
+path: C:\Users\vemul\Downloads\Aditya_Pro\unified_dataset
+train: images/train
+val: images/val
